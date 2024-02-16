@@ -1,0 +1,14 @@
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\bin\Debug\net6.0\ConsAppEvenOdd.exe
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\bin\Debug\net6.0\ConsAppEvenOdd.deps.json
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\bin\Debug\net6.0\ConsAppEvenOdd.runtimeconfig.json
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\bin\Debug\net6.0\ConsAppEvenOdd.dll
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\bin\Debug\net6.0\ConsAppEvenOdd.pdb
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\obj\Debug\net6.0\ConsAppEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\obj\Debug\net6.0\ConsAppEvenOdd.AssemblyInfoInputs.cache
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\obj\Debug\net6.0\ConsAppEvenOdd.AssemblyInfo.cs
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\obj\Debug\net6.0\ConsAppEvenOdd.csproj.CoreCompileInputs.cache
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\obj\Debug\net6.0\ConsAppEvenOdd.dll
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\obj\Debug\net6.0\refint\ConsAppEvenOdd.dll
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\obj\Debug\net6.0\ConsAppEvenOdd.pdb
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\obj\Debug\net6.0\ConsAppEvenOdd.genruntimeconfig.cache
+D:\Mphasis\Feb16\ConsAppEvenOdd\ConsAppEvenOdd\obj\Debug\net6.0\ref\ConsAppEvenOdd.dll
